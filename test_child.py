@@ -1,3 +1,3 @@
 # Test file for child branch
-Print("Hi, I am in the child branch!")
-print("ligma")
+print("Hi, I am in the child branch!")
+
